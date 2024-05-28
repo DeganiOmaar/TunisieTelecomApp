@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "31203759166",
+    "project_id": "tunisietelecomapp",
+    "storage_bucket": "tunisietelecomapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:31203759166:android:ce41ad768594ddd6206d6f",
+        "android_client_info": {
+          "package_name": "com.example.tunisie_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFaEvPTn-l1bpMSr0LptFpT7QQCdiAB6w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
